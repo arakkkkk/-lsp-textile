@@ -8,8 +8,6 @@ from pygls import workspace
 from pygls.server import LanguageServer
 from pygls.workspace import TextDocument
 
-print("jiojiojio")
-
 
 def text2obj(lines):
     """

@@ -1,0 +1,9 @@
+README.md
+setup.py
+module/textile_parser.py
+module/textilels.py
+textilels.egg-info/PKG-INFO
+textilels.egg-info/SOURCES.txt
+textilels.egg-info/dependency_links.txt
+textilels.egg-info/entry_points.txt
+textilels.egg-info/top_level.txt

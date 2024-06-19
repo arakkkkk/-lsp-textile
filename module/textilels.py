@@ -1,9 +1,7 @@
 import logging
-from os import wait
 import re
 
 from lsprotocol import types
-from pygls import workspace
 
 from pygls.server import LanguageServer
 from pygls.workspace import TextDocument
